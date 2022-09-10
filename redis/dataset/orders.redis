@@ -1,7 +1,0 @@
-HSET "order_id:1" user_id "1" status "Created" bill_amount "50"
-HSET "order_id:2" user_id "2" status "Processing" bill_amount "100"
-HSET "order_id:3" user_id "3" status "Packaged" bill_amount "150"
-HSET "order_id:4" user_id "4" status "Out for Delivery" bill_amount "100"
-HSET "order_id:5" user_id "5" status "Delivered" bill_amount "75"
-HSET "order_id:6" user_id "6" status "Created" bill_amount "125"
-HSET "order_id:7" user_id "7" status "Processing" bill_amount "250"

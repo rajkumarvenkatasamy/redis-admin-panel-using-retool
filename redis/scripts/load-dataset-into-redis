@@ -5,4 +5,3 @@
 # You can also login to redis container terminal using Docker Desktop
 
 redis-cli -h localhost -p 6379 < users.redis
-redis-cli -h localhost -p 6379 < orders.redis
